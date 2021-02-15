@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Conductor</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Queuing</string>
+    <string name="title_receipts">Cash Payments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Card fragment</string>
+    <string name="preference_key">com.komiut.conductor.KOMIUT</string>
+    <string name="access_token">ACCESS_TOKEN</string>
+    <string name="authentication_status">AUTH_STATUS</string>
+    <string name="sacco">Sacco</string>
+    <string name="customer_care_no">Customer Care Number</string>
+    <string name="sacco_motto">Sacco Motto</string>
+    <string name="logo">Sacco Logo</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Komiut Conductor</string>
+    <string name="nav_header_subtitle">info@komiut.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="user_email">User Email</string>
+    <string name="user_name">User Name</string>
+    <string name="user_phone">User Phone</string>
+    <string name="user_plate">Matatu Plate</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_queue">Queues</string>
+    <string name="title_mpesa">Mpesa</string>
+    <string name="title_card">Card Payment</string>
+    <string name="title_card_top">Card Top Up</string>
+    <string name="title_passenger">Passenger</string>
+    <string name="title_trips">Trips</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="title_logout">Logout</string>
+    <string name="this_is_the_transactions_fragment">This is the Transactions fragment</string>
+    <string name="this_is_the_boarding_fragment">This is the Boarding fragment</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="first_time_user">Yes</string>
+    <string name="is_first_time">IS FIRST TIME</string>
+    <string name="enrolll">Fingerprint Enrollment</string>
+    <string name="verifyyyy">Request Queue</string>
+
+
+    <string-array name="cash_array">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+
+    </string-array>
+</resources>

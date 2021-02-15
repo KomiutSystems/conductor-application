@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.komiut.conductor.ui.dashboard.DashboardFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_navigation_dashboard_to_enrollFingerprintFragment2"
+            app:destination="@id/enrollFingerprintFragment2" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_queue"
+        android:name="com.komiut.conductor.ui.queue.QueueFragment"
+        android:label="@string/title_queue"
+        tools:layout="@layout/fragment_queue" >
+        <action
+            android:id="@+id/action_navigation_queue_to_requestQueueFragment"
+            app:destination="@id/requestQueueFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_receipts"
+        android:name="com.komiut.conductor.ui.cash.CashFragment"
+        android:label="@string/title_receipts"
+        tools:layout="@layout/fragment_cash" />
+    <fragment
+        android:id="@+id/navigation_card"
+        android:name="com.komiut.conductor.ui.card.CardFragment"
+        android:label="@string/title_card"
+        tools:layout="@layout/fragment_card_new" />
+    <fragment
+        android:id="@+id/navigation_mpesa"
+        android:name="com.komiut.conductor.ui.mpesa.MpesaFragment"
+        android:label="@string/title_mpesa"
+        tools:layout="@layout/fragment_mpesa" />
+    <fragment
+        android:id="@+id/navigation_trips"
+        android:name="com.komiut.conductor.ui.trips.TripsFragment"
+        android:label="@string/title_trips"
+        tools:layout="@layout/fragment_trips" />
+    <fragment
+        android:id="@+id/navigation_transactions"
+        android:name="com.komiut.conductor.ui.transactions.TransactionsFragment"
+        android:label="@string/title_transactions"
+        tools:layout="@layout/fragment_transactions" />
+    <fragment
+        android:id="@+id/enrollFingerprintFragment2"
+        android:name="com.komiut.conductor.ui.fingerprint.EnrollFingerprintFragment"
+        android:label="@string/enrolll"
+        tools:layout="@layout/fragment_enroll_fingerprint" />
+    <fragment
+        android:id="@+id/requestQueueFragment"
+        android:name="com.komiut.conductor.ui.queue.RequestQueueFragment"
+        android:label="@string/verifyyyy"
+        tools:layout="@layout/fragment_request_queue" />
+    <fragment
+        android:id="@+id/navigation_card_top"
+        android:name="com.komiut.conductor.ui.tag.TopUpFragment"
+        android:label="Top up Tag"
+        tools:layout="@layout/top_up_fragment" />
+    <fragment
+        android:id="@+id/navigation_card_pay"
+        android:name="com.komiut.conductor.ui.tag.TagPaymentFragment"
+        android:label="Tag Payment"
+        tools:layout="@layout/tag_payment_fragment" />
+    <fragment
+        android:id="@+id/cashTransactionsFragment"
+        android:name="com.komiut.conductor.ui.cash.CashTransactionsFragment"
+        android:label="Cash Transactions"
+        tools:layout="@layout/fragment_cash_transactions" >
+        <action
+            android:id="@+id/action_cashTransactionsFragment_to_cashTransactionsViewerFragment"
+            app:destination="@id/cashTransactionsViewerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mpesaTransactionsFragment"
+        android:name="com.komiut.conductor.ui.mpesa.MpesaTransactionsFragment"
+        android:label="Mpesa Transactions"
+        tools:layout="@layout/fragment_mpesa_transactions" >
+        <action
+            android:id="@+id/action_mpesaTransactionsFragment_to_mpesaTransactionViewerFragment"
+            app:destination="@id/mpesaTransactionViewerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cashTransactionsViewerFragment"
+        android:name="com.komiut.conductor.ui.cash.CashTransactionsViewerFragment"
+        android:label="Cash Transactions"
+        tools:layout="@layout/fragment_cash_transactions_viewer" >
+        <argument
+            android:name="DateOfTransaction"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/mpesaTransactionViewerFragment"
+        android:name="com.komiut.conductor.ui.mpesa.MpesaTransactionViewerFragment"
+        android:label="Mpesa Transactions"
+        tools:layout="@layout/fragment_mpesa_transaction_viewer" >
+        <argument
+            android:name="DateOfTransaction"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_passenger"
+        android:name="com.komiut.conductor.ui.passenger.PassengerFragment"
+        android:label="@string/title_passenger"
+        tools:layout="@layout/fragment_passenger" >
+        <action
+            android:id="@+id/action_navigation_passenger_to_passengerMapsFragment"
+            app:destination="@id/passengerMapsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/passengerMapsFragment"
+        android:name="com.komiut.conductor.ui.passenger.PassengerMapsFragment"
+        android:label="Passenger Location"
+        tools:layout="@layout/fragment_passenger_maps">
+        <argument
+            android:name="PassangerCoordinates"
+            app:argType="com.komiut.conductor.model.PassengerMapCoordinates" />
+    </fragment>
+
+
+</navigation>

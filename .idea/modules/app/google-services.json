@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028247623841",
+    "firebase_url": "https://komiut.firebaseio.com",
+    "project_id": "komiut",
+    "storage_bucket": "komiut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028247623841:android:63b2f03a8aa5cbec1778e0",
+        "android_client_info": {
+          "package_name": "com.komiut.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028247623841-ci9670idivt0t4amjcpqd7pqfpbsf89v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.komiut.conductor",
+            "certificate_hash": "e39349dcef18da11763e1dd0c639d6f68087b17c"
+          }
+        },
+        {
+          "client_id": "1028247623841-re6vid98vp8jm9lf3u87qs5ej6roh787.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChfi82tNN5mk3oO0O-M9Pr57WQcZuP9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028247623841-re6vid98vp8jm9lf3u87qs5ej6roh787.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
