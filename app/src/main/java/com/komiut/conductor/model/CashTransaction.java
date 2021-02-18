@@ -13,10 +13,11 @@ public class CashTransaction implements Serializable {
     @NonNull
     int user_id;
 
-    String selectedDepart, selectedDest, regno, passname, passphone, nopass, amount, luggage, amtGiven, stringTotal, stringChange, receiptNumber;
+    String selectedDepart, selectedDest, regno, passname, passphone, nopass, amount, luggage, amtGiven, stringTotal, stringChange;
     String date;
     String offlineDataAccessDate;
     String uniqueID;
+    String cashId;
     boolean status;
 
 
@@ -148,11 +149,11 @@ public class CashTransaction implements Serializable {
         this.stringChange = stringChange;
     }
 
-    public String getReceiptNumber() {
-        return receiptNumber;
+    public String getCashId() {
+        return cashId;
     }
 
-    public void setReceiptNumber(String receiptNumber) {
-        this.receiptNumber = receiptNumber;
+    public void setCashId(String cashId) {
+        this.cashId = cashId;
     }
 }

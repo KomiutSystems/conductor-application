@@ -56,7 +56,6 @@ public class CashFragment extends Fragment {
     };
 
 
-
     private CashViewModel cashViewModel;
     FragmentCashBinding binding;
     DriverManager mDriverManager = DriverManager.getInstance();
@@ -163,6 +162,9 @@ public class CashFragment extends Fragment {
             String lastname = binding.lastname.getEditText().getText().toString();
             String from = binding.from.getText().toString();
             String to = binding.to.getText().toString();
+            String ticketNo = receiptNumber();
+
+            Log.d("ReceiptNo", ticketNo);
 
 
             String baseFare = binding.basefare.getEditText().getText().toString();
@@ -199,11 +201,10 @@ public class CashFragment extends Fragment {
             CashTransaction cashTransaction = new CashTransaction();
 
             Date date = new Date();
-            String ticketNo = receiptNumber();
+
 
             int change = initialAmount - bFare;
             cashTransaction.setAmount(baseFare);
-            cashTransaction.setReceiptNumber(ticketNo);
             Log.i("ReceiptNo", ticketNo);
             cashTransaction.setAmtGiven(String.valueOf(initialAmount));
             cashTransaction.setLuggage("0");
@@ -215,6 +216,8 @@ public class CashFragment extends Fragment {
             cashTransaction.setStringChange(String.valueOf(change));
             cashTransaction.setSelectedDest(to);
             cashTransaction.setUniqueID(userDetails.getUser_plate() + date.toString());
+            cashTransaction.setCashId(ticketNo);
+            Log.i("ReceiptNo", ticketNo);
 //          202012141150  yyyymmddHHMM
             cashTransaction.setStatus(false);
 
@@ -280,7 +283,7 @@ public class CashFragment extends Fragment {
             mPrinter.setPrintAppendString("PASSENGER  TICKET", format);
 //            mPrinter.setPrintAppendString("Ticket No : " + receiptNumber().substring(1, 10) + saccoInfo.getSacco().charAt(0) + saccoInfo.getSacco().charAt(saccoInfo.getSacco().toUpperCase().length()-1)  , format);
             mPrinter.setPrintAppendString("Ticket No : " + ticketNo.substring(1, 6) + sacco.charAt(0) + sacco.charAt(sacco.length() - 1) + ticketNo.substring(13, 20), format);
-            Log.i("ReceiptNo", ticketNo );
+            Log.i("ReceiptNo", ticketNo);
             format.setTextSize(20);
             format.setStyle(PrnTextStyle.NORMAL);
             format.setAli(Layout.Alignment.ALIGN_NORMAL);

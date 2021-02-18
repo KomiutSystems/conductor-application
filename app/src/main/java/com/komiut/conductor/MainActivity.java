@@ -261,6 +261,7 @@ public class MainActivity extends AppCompatActivity {
                 carLocation.setDevice_imei("imei");
                 carLocation.setAndroid_id("android id");
 
+
                 latitude = location.getLatitude();
                 longitude = location.getLongitude();
 
