@@ -19,7 +19,7 @@ import com.komiut.conductor.retrofit.SubRoutesResponse;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-@Database(entities = {MpesaMessage.class, CashTransaction.class, OfflineUser.class, SubRoutesResponse.class}, version = 6, exportSchema = false)
+@Database(entities = {MpesaMessage.class, CashTransaction.class, OfflineUser.class, SubRoutesResponse.class}, version = 7, exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {
 
 

@@ -41,7 +41,7 @@ public final class AppDatabase_Impl extends AppDatabase {
 
   @Override
   protected SupportSQLiteOpenHelper createOpenHelper(DatabaseConfiguration configuration) {
-    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(6) {
+    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(7) {
       @Override
       public void createAllTables(SupportSQLiteDatabase _db) {
         _db.execSQL("CREATE TABLE IF NOT EXISTS `MpesaMessage` (`transactionId` TEXT NOT NULL, `date` TEXT, `time` TEXT, `amount` TEXT, `phonenumber` TEXT, `firstname` TEXT, `secondname` TEXT, `printStatus` INTEGER NOT NULL, PRIMARY KEY(`transactionId`))");

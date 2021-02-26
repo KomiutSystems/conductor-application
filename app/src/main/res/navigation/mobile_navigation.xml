@@ -124,6 +124,50 @@
             android:name="PassangerCoordinates"
             app:argType="com.komiut.conductor.model.PassengerMapCoordinates" />
     </fragment>
+    <fragment
+        android:id="@+id/NFCPaymentFragment"
+        android:name="com.komiut.conductor.NFCPaymentFragment"
+        android:label="NFC"
+        tools:layout="@layout/fragment_n_f_c_payment" />
+    <fragment
+        android:id="@+id/QRFragment"
+        android:name="com.komiut.conductor.ui.qr.QRFragment"
+        android:label="QR Operations"
+        tools:layout="@layout/fragment_q_r" >
+        <action
+            android:id="@+id/action_QRFragment_to_QRPayFragment"
+            app:destination="@id/QRPayFragment" />
+        <action
+            android:id="@+id/action_QRFragment_to_QRTopUPFragment"
+            app:destination="@id/QRTopUPFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/QRPayFragment"
+        android:name="com.komiut.conductor.ui.qr.QRPayFragment"
+        android:label="QR Payment"
+        tools:layout="@layout/fragment_q_r_pay" />
+    <fragment
+        android:id="@+id/QRTopUPFragment"
+        android:name="com.komiut.conductor.ui.qr.QRTopUPFragment"
+        android:label="Top Up QR"
+        tools:layout="@layout/fragment_q_r_top_u_p" />
+    <fragment
+        android:id="@+id/cardOperationsFragment"
+        android:name="com.komiut.conductor.ui.card.CardOperationsFragment"
+        android:label="Card Operations"
+        tools:layout="@layout/fragment_card_operations" >
+        <action
+            android:id="@+id/action_cardOperationsFragment_to_navigation_card"
+            app:destination="@id/navigation_card" />
+        <action
+            android:id="@+id/action_cardOperationsFragment_to_NFCTopFragment"
+            app:destination="@id/NFCTopFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/NFCTopFragment"
+        android:name="com.komiut.conductor.ui.card.NFCTopFragment"
+        android:label="fragment_n_f_c_top"
+        tools:layout="@layout/fragment_n_f_c_top" />
 
 
 </navigation>

@@ -4,6 +4,8 @@ package com.komiut.conductor.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -19,11 +21,20 @@ public final class FragmentCardNewBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView txtCard;
+  public final EditText amount2;
 
-  private FragmentCardNewBinding(@NonNull ConstraintLayout rootView, @NonNull TextView txtCard) {
+  @NonNull
+  public final Button printReceipt;
+
+  @NonNull
+  public final TextView status2;
+
+  private FragmentCardNewBinding(@NonNull ConstraintLayout rootView, @NonNull EditText amount2,
+      @NonNull Button printReceipt, @NonNull TextView status2) {
     this.rootView = rootView;
-    this.txtCard = txtCard;
+    this.amount2 = amount2;
+    this.printReceipt = printReceipt;
+    this.status2 = status2;
   }
 
   @Override
@@ -53,13 +64,26 @@ public final class FragmentCardNewBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.txtCard;
-      TextView txtCard = rootView.findViewById(id);
-      if (txtCard == null) {
+      id = R.id.amount2;
+      EditText amount2 = rootView.findViewById(id);
+      if (amount2 == null) {
         break missingId;
       }
 
-      return new FragmentCardNewBinding((ConstraintLayout) rootView, txtCard);
+      id = R.id.printReceipt;
+      Button printReceipt = rootView.findViewById(id);
+      if (printReceipt == null) {
+        break missingId;
+      }
+
+      id = R.id.status2;
+      TextView status2 = rootView.findViewById(id);
+      if (status2 == null) {
+        break missingId;
+      }
+
+      return new FragmentCardNewBinding((ConstraintLayout) rootView, amount2, printReceipt,
+          status2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

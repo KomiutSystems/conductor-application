@@ -1758,6 +1758,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable qr_edit_background
 drawable queue
 drawable queuebackground
 drawable routes_back
@@ -1772,7 +1773,13 @@ id BOTTOM_START
 id CTRL
 id FUNCTION
 id META
+id NFCPaymentFragment
+id NFCTopFragment
 id NO_DEBUG
+id PrintReceipt
+id QRFragment
+id QRPayFragment
+id QRTopUPFragment
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -1815,6 +1822,8 @@ id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
 id action0
+id action_QRFragment_to_QRPayFragment
+id action_QRFragment_to_QRTopUPFragment
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1822,6 +1831,8 @@ id action_bar_root
 id action_bar_spinner
 id action_bar_subtitle
 id action_bar_title
+id action_cardOperationsFragment_to_NFCTopFragment
+id action_cardOperationsFragment_to_navigation_card
 id action_cashTransactionsFragment_to_cashTransactionsViewerFragment
 id action_container
 id action_context_bar
@@ -1852,6 +1863,7 @@ id aligned
 id all
 id always
 id amount
+id amount2
 id amountt
 id animateToEnd
 id animateToStart
@@ -1889,6 +1901,7 @@ id buttonPanel
 id cache_measures
 id cancel_action
 id cancel_button
+id cardOperationsFragment
 id cash
 id cashTransactionsFragment
 id cashTransactionsViewerFragment
@@ -2116,6 +2129,7 @@ id password
 id password_toggle
 id path
 id pathRelative
+id pay
 id peekHeight
 id percent
 id phone
@@ -2125,10 +2139,12 @@ id plate
 id position
 id postLayout
 id printNow
+id printReceipt
 id progress
 id progressBar
 id progress_circular
 id progress_horizontal
+id qrdecoderview
 id radio
 id ratio
 id receipts
@@ -2199,6 +2215,7 @@ id startVertical
 id staticLayout
 id staticPostLayout
 id status
+id status2
 id status_bar_latest_event_content
 id stop
 id stretch
@@ -2270,6 +2287,7 @@ id toggle
 id toolbar
 id top
 id topPanel
+id topUp
 id total
 id touch_outside
 id transactionAmount
@@ -2288,7 +2306,6 @@ id triangle
 id trip
 id txt1
 id txt2
-id txtCard
 id txtDepart
 id txtDest
 id txtDistanceAwayKm
@@ -2396,6 +2413,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_card
 layout fragment_card_new
+layout fragment_card_operations
 layout fragment_cash
 layout fragment_cash_transactions
 layout fragment_cash_transactions_viewer
@@ -2408,9 +2426,13 @@ layout fragment_login
 layout fragment_mpesa
 layout fragment_mpesa_transaction_viewer
 layout fragment_mpesa_transactions
+layout fragment_n_f_c_top
 layout fragment_passenger
 layout fragment_passenger_maps
 layout fragment_progress
+layout fragment_q_r
+layout fragment_q_r_pay
+layout fragment_q_r_top_u_p
 layout fragment_queue
 layout fragment_request_queue
 layout fragment_request_queue_other
@@ -2645,6 +2667,7 @@ string title_home
 string title_logout
 string title_mpesa
 string title_passenger
+string title_qr
 string title_queue
 string title_receipts
 string title_transactions

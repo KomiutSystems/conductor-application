@@ -43,6 +43,7 @@
     <string name="is_first_time">IS FIRST TIME</string>
     <string name="enrolll">Fingerprint Enrollment</string>
     <string name="verifyyyy">Request Queue</string>
+    <string name="title_qr">QR Payment</string>
 
 
     <string-array name="cash_array">

@@ -18,13 +18,18 @@
             android:icon="@drawable/ic_income"
             android:title="@string/title_receipts" />
         <item
+            android:id="@+id/QRFragment"
+            android:icon="@drawable/ic_income"
+            android:title="@string/title_qr" />
+        <item
             android:id="@+id/navigation_mpesa"
             android:icon="@drawable/ic_mobile_payment"
             android:title="@string/title_mpesa" />
-        <!-- <item
-             android:id="@+id/navigation_card_top"
-             android:icon="@drawable/ic_home_black_24dp"
-             android:title="@string/title_card_top" />
+        <item
+            android:id="@+id/cardOperationsFragment"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/title_card" />
+        <!--
          <item
              android:id="@+id/navigation_card_pay"
              android:icon="@drawable/ic_baseline_email_24"

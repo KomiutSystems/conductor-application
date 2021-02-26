@@ -44,8 +44,16 @@
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_dashboard.xml"
     },
     {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_q_r_top_u_p.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_q_r_top_u_p.xml"
+    },
+    {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_mpesa_transactions.xml",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_mpesa_transactions.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_q_r_pay.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_q_r_pay.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_progress.xml",
@@ -80,6 +88,10 @@
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/activity_home.xml"
     },
     {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_q_r.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_q_r.xml"
+    },
+    {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_slideshow.xml",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_slideshow.xml"
     },
@@ -90,6 +102,10 @@
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/mpesa_list_item.xml",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/mpesa_list_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_card_operations.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_card_operations.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_trips.xml",
@@ -134,6 +150,10 @@
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cash_transactions_viewer.xml",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_cash_transactions_viewer.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_n_f_c_top.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_n_f_c_top.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_passenger_maps.xml",

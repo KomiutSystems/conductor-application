@@ -52,16 +52,16 @@
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_lock_24.png"
     },
     {
-        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_follow_the_signs_24.png.flat",
-        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_follow_the_signs_24.png"
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lending.png.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lending.png"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_notifications_24.png.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_notifications_24.png"
     },
     {
-        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lending.png.flat",
-        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lending.png"
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_follow_the_signs_24.png.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_follow_the_signs_24.png"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
@@ -96,6 +96,10 @@
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lending.png"
     },
     {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_fragment_q_r_pay.xml.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_q_r_pay.xml"
+    },
+    {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_arrow_upward_24.png.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_arrow_upward_24.png"
     },
@@ -114,6 +118,10 @@
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_ascending.png.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-hdpi/ic_ascending.png"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_fragment_q_r_top_u_p.xml.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_q_r_top_u_p.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
@@ -294,6 +302,10 @@
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_arrow_upward_24.png.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_arrow_upward_24.png"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable_qr_edit_background.xml.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/drawable/qr_edit_background.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
@@ -588,6 +600,10 @@
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_descending.png"
     },
     {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_fragment_n_f_c_top.xml.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_n_f_c_top.xml"
+    },
+    {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/navigation/mobile_navigation.xml"
     },
@@ -606,6 +622,10 @@
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_ascending.png.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/generated/res/pngs/debug/drawable-mdpi/ic_ascending.png"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_fragment_card_operations.xml.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_card_operations.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lending.png.flat",
@@ -802,6 +822,10 @@
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/layout_fragment_q_r.xml.flat",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_q_r.xml"
     },
     {
         "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cash_flow.png.flat",
