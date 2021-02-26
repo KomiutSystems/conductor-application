@@ -138,6 +138,7 @@ public class Sessionmangementsharedpref {
     }
 
     //this method will give the logged in user
+/*
     public LoginResponse getUserCredentials() {
         SharedPreferences sharedPreferences = mCtx.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
         return new LoginResponse(
@@ -148,6 +149,7 @@ public class Sessionmangementsharedpref {
 
         );
     }
+*/
 
     //this method will logout the user
     public void logout() {

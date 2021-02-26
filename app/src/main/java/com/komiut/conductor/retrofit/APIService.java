@@ -27,7 +27,6 @@ public interface APIService {
     @POST("api/logout")
     Call<LogoutResponse> logout(@Header("Authorization") String access_token);
 
-
     @Headers({"Content-Type: application/json", "Accept: application/json"})
     @GET("api/c/transactions")
     Call<List<TransactionResponse>> getTransactions();

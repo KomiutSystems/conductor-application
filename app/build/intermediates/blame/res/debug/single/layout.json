@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/receipt_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/receipt_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_enroll_fingerprint.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_enroll_fingerprint.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/top_up_fragment.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/top_up_fragment.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tag_payment_fragment.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/tag_payment_fragment.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/transactions_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/transactions_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_mpesa.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_mpesa.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/passenger_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/passenger_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_card_new.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_card_new.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_mpesa_transactions.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_mpesa_transactions.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_progress.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_passenger.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_passenger.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cash_transactions.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_cash_transactions.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_queue.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_queue.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cash_transaction_viewer_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/cash_transaction_viewer_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_slideshow.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/mpesa_transaction_viewer_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/mpesa_transaction_viewer_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/mpesa_list_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/mpesa_list_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_trips.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_trips.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_request_queue_other.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_request_queue_other.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nav_header_main.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_fingerprint_verification.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_fingerprint_verification.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/queue_list_item.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/queue_list_item.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/routes_items.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/routes_items.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_mpesa_transaction_viewer.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_mpesa_transaction_viewer.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_request_queue.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_request_queue.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cash_transactions_viewer.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_cash_transactions_viewer.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_passenger_maps.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_passenger_maps.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/msg_content_layout.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/msg_content_layout.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cash.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_cash.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_gallery.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_transactions.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_card.xml",
+        "source": "/home/ngahu/Desktop/Conductor 2/komiut_conductor_app/app/src/main/res/layout/fragment_card.xml"
+    }
+]

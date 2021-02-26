@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1028247623841-re6vid98vp8jm9lf3u87qs5ej6roh787.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://komiut.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1028247623841</string>
+    <string name="google_api_key" translatable="false">AIzaSyBChfi82tNN5mk3oO0O-M9Pr57WQcZuP9g</string>
+    <string name="google_app_id" translatable="false">1:1028247623841:android:63b2f03a8aa5cbec1778e0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBChfi82tNN5mk3oO0O-M9Pr57WQcZuP9g</string>
+    <string name="google_storage_bucket" translatable="false">komiut.appspot.com</string>
+    <string name="project_id" translatable="false">komiut</string>
+</resources>

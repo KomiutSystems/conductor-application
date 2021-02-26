@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/SmartPos_1.3.5_R200601.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/SmartPos_1.3.5_R200601.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
